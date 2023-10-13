@@ -22,17 +22,16 @@
 
   #answers p {
     border: 1px dashed #333;
-    height: 60px;
-    width: 30%;
+    height: 100px;
+    width: 200px;
     display: flex;
     align-items: center;
     justify-content: center;
+    text-align: center;
   }
 
   #questions {
-    background-color: skyblue;
-    height: 500px;
-    width: 500px;
+    width: 50%;
   }
 
   #questions {
@@ -41,9 +40,10 @@
 
   #questions p {
     border: 1px dashed #333;
-    height: 60px;
-    width: 30%;
+    height: 100px;
+    width: 200px;
     display: flex;
     align-items: center;
     justify-content: center;
+    text-align: center;
   }
